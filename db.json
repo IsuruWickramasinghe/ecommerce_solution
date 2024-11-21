@@ -1,0 +1,158 @@
+{
+  "content": {
+    "status": true,
+    "message": "success",
+    "data": {
+      "logo": "https://similater.com/public/images/ecom/logo.png",
+      "contacts": {
+        "phone1": "+94 76 0358784",
+        "phone2": "+94 71 3656552",
+        "email": "conatct@kavindunimesh.com"
+      },
+      "navigation": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "About",
+          "path": "/about"
+        },
+        {
+          "name": "Blog",
+          "path": "/blog"
+        },
+        {
+          "name": "FAQ",
+          "path": "/faq"
+        },
+        {
+          "name": "Foods",
+          "path": "/foods",
+          "items": [
+            {
+              "name": "Drinks",
+              "path": "/drinks",
+              "items": [
+                {
+                  "name": "soft drinks",
+                  "path": "/soft-drinks"
+                },
+                {
+                  "name": "Liquors",
+                  "path": "/liquors"
+                }
+              ]
+            },
+            {
+              "name": "Bites",
+              "path": "/bites"
+            },
+            {
+              "name": "Sweets",
+              "path": "/sweets"
+            }
+          ]
+        }
+      ],
+      "sliders": [
+        {
+          "image": "https://similater.com/public/images/ecom/slide1.jpg",
+          "text1": "Text 1",
+          "text2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+          "text3": null,
+          "btn1": {
+            "text": "Btn 1",
+            "path": "/about-us"
+          },
+          "btn2": {
+            "text": "Btn 2",
+            "path": "/contact-us"
+          }
+        },
+        {
+          "image": "https://similater.com/public/images/ecom/slide2.jpg",
+          "text1": "Text 2",
+          "text2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+          "text3": null,
+          "btn1": {
+            "text": "Btn 1",
+            "path": "/about-us"
+          },
+          "btn2": {
+            "text": "Btn 2",
+            "path": "/contact-us"
+          }
+        }
+      ]
+    }
+  },
+  "services": [
+    {
+      "name": "power",
+      "category_name": "plant",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img1.jpg"
+    },
+    {
+      "name": "laser",
+      "category_name": "cut & print",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img2.jpg"
+    },
+    {
+      "name": "cnc",
+      "category_name": "machinery",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img3.jpg"
+    },
+    {
+      "name": "oil & gas",
+      "category_name": "industry",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img4.jpg"
+    },
+    {
+      "name": "power2",
+      "category_name": "plant",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img1.jpg"
+    },
+    {
+      "name": "laser2",
+      "category_name": "cut & print",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img2.jpg"
+    },
+    {
+      "name": "cnc2",
+      "category_name": "machinery",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img3.jpg"
+    },
+    {
+      "name": "oil & gas2",
+      "category_name": "industry",
+      "icon_url": "https://similater.com/public/images/ecom/",
+      "image_url": "https://similater.com/public/images/ecom/img4.jpg"
+    }
+  ],
+  "seo": {
+    "status": true,
+    "message": "success",
+    "data": [
+      {
+        "id": 1,
+        "path": "/",
+        "title": "Welcome to the home page",
+        "description": "Welcome to the home page"
+      },
+      {
+        "id": 2,
+        "path": "/about",
+        "title": "About us information",
+        "description": "Welcome to the about page"
+      }
+    ]
+  }
+}
